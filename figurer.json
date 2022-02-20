@@ -1,0 +1,9 @@
+{
+    "sirkler" : [{"x": 50, "y": 50, "rad": 10,"color": "red"},
+                 {"x": 70, "y": 50, "rad": 20,"color": "blue"},
+                 {"x": 100, "y": 50, "rad": 30,"color": "purple"},
+                 {"x": 150, "y": 50, "rad": 40,"color": "green"},
+                 {"x": 200, "y": 50, "rad": 50,"color": "yellow"}
+                ]
+    
+}
