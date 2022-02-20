@@ -1,10 +1,10 @@
 {
     "sirkler" : [
                     {"x": 50, "y": 50, "rad": 10,"color": "red"},
-                    {"x": 120, "y": 50, "rad": 20,"color": "blue"},
-                    {"x": 190, "y": 50, "rad": 30,"color": "purple"},
-                    {"x": 260, "y": 50, "rad": 40,"color": "green"},
-                    {"x": 330, "y": 50, "rad": 50,"color": "yellow"}
+                    {"x": 60, "y": 50, "rad": 20,"color": "blue"},
+                    {"x": 80, "y": 50, "rad": 30,"color": "purple"},
+                    {"x": 110, "y": 50, "rad": 40,"color": "green"},
+                    {"x": 150, "y": 50, "rad": 50,"color": "yellow"}
                 ],
     "firkanter" : [{"x": 50, "y": 250, "width": 20, "height": 20, "color": "red"},
                    {"x": 120, "y": 250, "width": 30, "height": 30, "color": "blue"},
