@@ -1,9 +1,16 @@
 {
-    "sirkler" : [{"x": 50, "y": 50, "rad": 10,"color": "red"},
-                 {"x": 70, "y": 50, "rad": 20,"color": "blue"},
-                 {"x": 100, "y": 50, "rad": 30,"color": "purple"},
-                 {"x": 150, "y": 50, "rad": 40,"color": "green"},
-                 {"x": 200, "y": 50, "rad": 50,"color": "yellow"}
-                ]
+    "sirkler" : [
+                    {"x": 50, "y": 50, "rad": 10,"color": "red"},
+                    {"x": 120, "y": 50, "rad": 20,"color": "blue"},
+                    {"x": 190, "y": 50, "rad": 30,"color": "purple"},
+                    {"x": 260, "y": 50, "rad": 40,"color": "green"},
+                    {"x": 330, "y": 50, "rad": 50,"color": "yellow"}
+                ],
+    "firkanter" : [{"x": 50, "y": 250, "width": 20, "height": 20, "color": "red"},
+                   {"x": 120, "y": 250, "width": 30, "height": 30, "color": "blue"},
+                   {"x": 190, "y": 250, "width": 40, "height": 40, "color": "purple"},
+                   {"x": 260, "y": 250, "width": 50, "height": 50, "color": "green"},
+                   {"x": 330, "y": 250, "width": 60, "height": 60, "color": "yellow"}
+    ]
     
 }
